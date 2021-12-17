@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* При сложении сумм баланса счета клиента (costumer_account) и денежного перевода (money_transfer) отображается сумма неравная ожидаемой.
+* <https://github.com/GarnikX/Money-transfers/issues/1#issue-1079192891>
 * Скрин IDEA:
   <https://www.awesomescreenshot.com/image/18555949?key=6f48a58747b9ed3527acc7a6832911e7>
 
